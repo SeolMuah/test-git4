@@ -1,5 +1,5 @@
 version = 1
-revision = 3
+revision = 2
 requires-python = ">=3.12"
 
 [[package]]
@@ -341,7 +341,6 @@ dependencies = [
     { name = "idna" },
     { name = "joblib" },
     { name = "kiwisolver" },
-    { name = "matplotlib" },
     { name = "numpy" },
     { name = "packaging" },
     { name = "pandas" },
@@ -369,7 +368,6 @@ requires-dist = [
     { name = "idna", specifier = "==3.11" },
     { name = "joblib", specifier = "==1.5.3" },
     { name = "kiwisolver", specifier = "==1.4.9" },
-    { name = "matplotlib", specifier = "==3.10.8" },
     { name = "numpy", specifier = "==2.4.1" },
     { name = "packaging", specifier = "==25.0" },
     { name = "pandas", specifier = "==2.3.3" },
